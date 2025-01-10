@@ -1,0 +1,7 @@
+# Ignore the venu folder (virtual environment)
+venu/
+
+# Ignore other common files
+*.log
+*.tmp
+node_modules/
