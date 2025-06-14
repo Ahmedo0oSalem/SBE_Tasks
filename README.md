@@ -5,17 +5,13 @@
     - undo stack
     - Hash Table logic  
 - Ahmed:
-
-    – Priority queue logic
+    - Priority queue logic
     - Task Management & Reporting Functions
 - Karim:
-
-    – Search algorithms(linear and binary search by priority)  
+    - Search algorithms(linear and binary search by priority)  
 - Ziad:
-
-    – Sorting algorithms
+    - Sorting algorithms
     - Testing & bug detection
 - Yosef:
-
-    – Email integration  
+    - Email integration  
 ---
