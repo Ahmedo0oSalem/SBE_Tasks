@@ -1,7 +1,7 @@
 ## 👨‍💻 Authors
 
 - Badawy:
-- Core functionality
+    - Core functionality
     - undo stack
     - Hash Table logic  
 - Ahmed:
